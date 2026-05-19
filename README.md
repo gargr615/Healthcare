@@ -43,10 +43,10 @@ Healthcare-Dashboard/
 
 (Add screenshots of your dashboard here for better visualization.)
 Example:
-![Screenshot 2025-05-25 153143](https://github.com/user-attachments/assets/0b920415-dd37-4c83-ad56-ff10aa8bbda0)
-
-
 ![SharedScreenshot](https://github.com/user-attachments/assets/03a5c3a2-b800-450b-9b96-5340914ac435)
+
+
+<img width="1323" height="804" alt="Screenshot 2025-05-25 153143" src="https://github.com/user-attachments/assets/60646f47-b51d-4c1b-b7f8-e493c6905b16" />
 
 
 ![Screenshot 2025-05-25 153325](https://github.com/user-attachments/assets/9fe0fd3d-11a6-4702-bfc1-03c88b634fd6)
