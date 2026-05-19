@@ -4,7 +4,7 @@ Welcome to the **Healthcare Power BI Dashboard Project**!
 
 This project presents an interactive and dynamic dashboard built using **Power BI** to visualize and analyze healthcare data, helping stakeholders make informed decisions quickly.
 
---
+
 
 ## 🚀 Features
 
@@ -18,7 +18,7 @@ This project presents an interactive and dynamic dashboard built using **Power B
 
 📂 Clean and structured dataset integration
 
---
+
 
 ## 🛠️ Tech Stack
 
@@ -28,7 +28,6 @@ Excel / CSV – Data source
 
 DAX & Power Query – Data transformation & measures
 
---
 
 ## 📂 Project Structure
 Healthcare-Dashboard/
@@ -37,7 +36,7 @@ Healthcare-Dashboard/
 │-- Screenshots/       # Dashboard previews  
 │-- README.md          # Project documentation
 
---
+
 
 ## 📸 Dashboard Preview
 
@@ -51,7 +50,7 @@ Example:
 
 ![Screenshot 2025-05-25 153325](https://github.com/user-attachments/assets/9fe0fd3d-11a6-4702-bfc1-03c88b634fd6)
 
---
+
 
 
 ## ⚡ Installation & Usage
@@ -67,7 +66,7 @@ Connect your dataset if required.
 
 Explore the interactive dashboard.
 
---
+
 
 ## 🤝 Contribution
 
